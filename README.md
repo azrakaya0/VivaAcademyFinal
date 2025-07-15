@@ -1,7 +1,7 @@
 # VivaAcademyFinal
 Proje Uygulamaları Dersi Final Projesi
 
-#Kullanılan Mimari ve Teknolojiler
+#Kullanılan Mimari ve Teknolojiler  
 C# 10.0
 .Net Core 8
 Entity Framework 8
